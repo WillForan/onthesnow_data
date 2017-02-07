@@ -1,5 +1,5 @@
- #!/usr/bin/env Rscript
- #egrep ' -i all.tsv
+#!/usr/bin/env Rscript
+#egrep ' -i all.tsv
 library(dplyr)
 library(ggplot2)
 
@@ -23,9 +23,13 @@ d.all <-
  merge(d.wide) %>%
  merge( read.table('txt/distances.tsv',header=T,sep="\t") )
 
-ggplot(d.all) +
+p<-
+ ggplot(d.all) +
  aes(y=price,x=dist.min,size=skiable,color=runs,label=place) +
  geom_text(aes(size=NULL),vjust=-1) + geom_point() +
  theme_bw()
+
+ggsave(p,file='plot.png')
+
 
 
