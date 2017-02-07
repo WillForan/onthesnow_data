@@ -1,0 +1,120 @@
+woods	snowbase	50
+woods	cost	$43.00
+woods	Summit	1400ft
+woods	Vertical	500ft
+woods	Base	900ft
+woods	Beginner Runs	20%
+woods	Intermediate Runs	60%
+woods	Advanced Runs	20%
+woods	Expert Runs	0%
+woods	Runs	21
+woods	Night Skiing	15 ac
+woods	Longest Run	0 mi
+woods	Skiable Terrain	25 ac
+woods	Snow Making	16 ac
+woods	Gondolas & Trams	 0
+woods	Eight Person Lifts	 0
+woods	High Speed Sixes	 0
+woods	High Speed Quads	 0
+woods	Quad Chairs	 0
+woods	Triple Chairs	 0
+woods	Double Chairs	 2
+woods	Surface Lifts	 4
+woods	Total Number Of Lifts	 6
+toggenburg	snowbase	48
+toggenburg	cost	$50.00
+toggenburg	Summit	2000ft
+toggenburg	Vertical	700ft
+toggenburg	Base	1300ft
+toggenburg	Beginner Runs	33%
+toggenburg	Intermediate Runs	33%
+toggenburg	Advanced Runs	34%
+toggenburg	Expert Runs	0%
+toggenburg	Runs	21
+toggenburg	Terrain Parks	2
+toggenburg	Night Skiing	73 ac
+toggenburg	Longest Run	0 mi
+toggenburg	Skiable Terrain	85 ac
+toggenburg	Gondolas & Trams	 0
+toggenburg	Eight Person Lifts	 0
+toggenburg	High Speed Sixes	 0
+toggenburg	High Speed Quads	 0
+toggenburg	Quad Chairs	 0
+toggenburg	Triple Chairs	 1
+toggenburg	Double Chairs	 1
+toggenburg	Surface Lifts	 3
+toggenburg	Total Number Of Lifts	 5
+labrador	snowbase	40
+labrador	cost	
+labrador	Summit	1825ft
+labrador	Vertical	700ft
+labrador	Base	1125ft
+labrador	Beginner Runs	33%
+labrador	Intermediate Runs	34%
+labrador	Advanced Runs	33%
+labrador	Expert Runs	0%
+labrador	Runs	22
+labrador	Terrain Parks	1
+labrador	Night Skiing	180 ac
+labrador	Longest Run	1 mi
+labrador	Skiable Terrain	250 ac
+labrador	Snow Making	237 ac
+labrador	Gondolas & Trams	 0
+labrador	Eight Person Lifts	 0
+labrador	High Speed Sixes	 0
+labrador	High Speed Quads	 0
+labrador	Quad Chairs	 0
+labrador	Triple Chairs	 1
+labrador	Double Chairs	 2
+labrador	Surface Lifts	 1
+labrador	Total Number Of Lifts	 4
+gore	snowbase	32
+gore	cost	$83.00
+gore	Summit	3600ft
+gore	Vertical	2537ft
+gore	Base	997ft
+gore	Beginner Runs	10%
+gore	Intermediate Runs	51%
+gore	Advanced Runs	34%
+gore	Expert Runs	4%
+gore	Runs	109
+gore	mi Pistes	41 mi
+gore	Terrain Parks	6
+gore	Night Skiing	13 ac
+gore	MI Night Skiing	0 mi
+gore	Longest Run	4 mi
+gore	Skiable Terrain	439 ac
+gore	Snow Making	425 ac
+gore	mi Snow Making	30 mi
+gore	Gondolas & Trams	 1
+gore	Eight Person Lifts	 0
+gore	High Speed Sixes	 0
+gore	High Speed Quads	 2
+gore	Quad Chairs	 2
+gore	Triple Chairs	 3
+gore	Double Chairs	 2
+gore	Surface Lifts	 4
+gore	Total Number Of Lifts	 14
+whiteface	snowbase	42
+whiteface	cost	
+whiteface	Summit	4650ft
+whiteface	Vertical	3429ft
+whiteface	Base	1220ft
+whiteface	Beginner Runs	20%
+whiteface	Intermediate Runs	42%
+whiteface	Advanced Runs	38%
+whiteface	Expert Runs	0%
+whiteface	Runs	86
+whiteface	Terrain Parks	5
+whiteface	Longest Run	2 mi
+whiteface	Skiable Terrain	288 ac
+whiteface	Snow Making	220 ac
+whiteface	Gondolas & Trams	 1
+whiteface	Eight Person Lifts	 0
+whiteface	High Speed Sixes	 0
+whiteface	High Speed Quads	 1
+whiteface	Quad Chairs	 1
+whiteface	Triple Chairs	 2
+whiteface	Double Chairs	 5
+whiteface	Surface Lifts	 1
+whiteface	Total Number Of Lifts	 11
